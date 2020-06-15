@@ -1,0 +1,4 @@
+#Mon Jun 15 16:19:44 CEST 2020
+base.0=E\:\\FlutterProjects\\Clima-Flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
